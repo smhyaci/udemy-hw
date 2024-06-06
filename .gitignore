@@ -1,0 +1,19 @@
+# Ignore all files
+*
+
+# Do not ignore directories
+!*/
+
+# Do not ignore files with extensions
+!*.*
+
+# Explicitly do not ignore .sv files
+!*.sv
+
+# vs code config files
+.vscode/
+.vscode/settings.json
+
+# vcd files
+*.vcd
+
