@@ -66,3 +66,24 @@ Not Applicable
     - floating point
       - `realtime`
 
+  - initializing arrays
+    - for unique values
+      - `arr[] = {1,2,3,4};`
+
+    - repetitve values
+      - `arr[] = '{6{1}}`
+
+    - default value
+      - for 2-state => default = 0
+      - for 4-staet => default = x
+        - `arr[] = `{default:0};`
+
+  - traversal of arrays 
+    - for loop
+      -
+
+    - repeat
+
+
+    - foreach
+
