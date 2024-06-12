@@ -2,7 +2,7 @@
 
 # modelsim related configs
 readonly USER_LIB="user_lib"
-WHITE_LIST_KEEP_EXTS=("sv" "v")
+WHITE_LIST_KEEP_EXTS=("sv" "v" "PNG")
 NEW_SIM_DUMP_FILE=
 
 # gtkwave related configs
